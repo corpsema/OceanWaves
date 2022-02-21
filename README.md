@@ -9,9 +9,7 @@
 
 ## Author
 
-👤 **Mohammad**
-
-* Github: [@corpsema](https://github.com/corpsema)
+* Github: [@mxspillstea](https://github.com/mxspillstea)
 
 ## Show your support
 
@@ -19,6 +17,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 (https://github.com/corpsema).<br />
-This project is [GNU General Public License](https://github.com/corpsema/OceanWaves/blob/main/LICENSE) licensed.
+Copyright © 2021 (https://github.com/mxspillstea).<br />
+This project is [GNU General Public License](https://github.com/mxspillstea/OceanWaves/blob/main/LICENSE) licensed.
 
